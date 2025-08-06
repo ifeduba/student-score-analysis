@@ -1,6 +1,6 @@
  # student-score-analysis
  
-<img width="1024" height="1024" alt="freepik__a-line-graph-tracking-student-performance-over-tim__76460" src="https://github.com/user-attachments/assets/ba81f74f-417c-4114-9c9f-37b3f3ebfb3a" />
+<img width="1010" height="1010" alt="freepik__a-line-graph-tracking-student-performance-over-tim__76460" src="https://github.com/user-attachments/assets/ba81f74f-417c-4114-9c9f-37b3f3ebfb3a" />
 
 ## Introduction
 This SQL-based analysis examines academic performance patterns across 10,000+ student records to identify critical learning gaps and data quality issues. By analyzing demographic factors (gender, age, country) against math, science, and English scores.
