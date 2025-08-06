@@ -1,5 +1,9 @@
 # student-score-analysis
 
+## Introduction
+This SQL-based analysis examines academic performance patterns across 10,000+ student records to identify critical learning gaps and data quality issues. By analyzing demographic factors (gender, age, country) against math, science, and English scores.
+This analysis helps identify trends, strengths, and areas needing improvement for individual students or groups.
+
 ## Project overview
 - Analysis of student performance, data examinng.
 - Demographic distribution
